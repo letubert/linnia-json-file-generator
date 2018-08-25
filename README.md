@@ -1,6 +1,6 @@
 # Linnia JSON File Generator
 
-Welcome to the fake file generator! The Linnia Team threw this together so you
+Welcome to the fake JSON file generator! The Linnia Team threw this together so you
 could spend less time making fake data and more time building!
 
 ## Customizing the script
