@@ -2,7 +2,7 @@ const fs = require('fs');
 const faker = require('faker');
 
 /*
-  Welcome to the fake file generator! The Linia Team threw this together so you
+  Welcome to the fake JSON file generator! The Linnia Team threw this together so you
   could spend less time making fake data and more time building! In order to get
   this working for you, you should change three things:
 
